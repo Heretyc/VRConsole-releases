@@ -1,0 +1,36 @@
+{
+  "releases": [
+    {
+      "1.0.0": {
+        "windows": {
+          "SHA-512": "62b609eb5630cdc54ecbbd145022d81af59fdd6f78e2434756f368b91f5aadf4488fbb2f7abfaf8b745c484a5c55adce6e47e2322880862fec7f05a36d44133d",
+          "URL": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.0.0/vrconsole.exe"
+        },
+        "release": "2026-01-28T17:56:50Z"
+      }
+    },
+    {
+      "1.0.1": {
+        "windows": {
+          "SHA-512": "f951b4e5f6ddd7ef731647a4915b9e670abb08090ecd472f7ced74d85f95651953f498d988aabb157cf84f17ae777f45f957c313ee921d5ab202859ecf641c6c",
+          "URL": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.0.1/vrconsole.exe"
+        },
+        "release": "2026-01-28T17:57:54Z"
+      }
+    },
+    {
+      "1.0.2": {
+        "windows": {
+          "SHA-512": "17b203da66c256bdc837ff013dde80536dae359c8de5f507cd9053bd3464a6e6afb31e30cd93d5089433cbeb92db45172f573f87a3f91af1e1804b73f20a37a3",
+          "URL": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.0.2/vrconsole.exe"
+        },
+        "release": "2026-01-28T17:58:41Z"
+      }
+    }
+  ],
+  "invalid": [
+    "0.8.5",
+    "0.9.0",
+    "1.0.1"
+  ]
+}
