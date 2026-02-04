@@ -125,6 +125,15 @@
         },
         "release": "2026-02-03T02:47:32Z"
       }
+    },
+    {
+      "1.1.4": {
+        "windows": {
+          "SHA-512": "41ca19cbb2a0e33f85ea8316d5ab4963bfd1ca2d9e93df1e733edc058b3932b462ab81b6eb0aca2e3979af852a7d9434045eaf302c253c7081e334ea05affbb9",
+          "URL": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.1.4/vrconsole.exe"
+        },
+        "release": "2026-02-04T02:26:21Z"
+      }
     }
   ],
   "invalid": [
