@@ -184,11 +184,11 @@
       "1.1.8": {
         "windows": {
           "url": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.1.8/vrconsole.exe",
-          "sha512": "d0e2ab02a258fabb9fd2aeaab639ad517849e958fe466f00f5337450e7163932e063d17ebae437fe0fc513b1e1c67bfac4789e9dd31aa5015753e399252b459e",
+          "sha512": "3dd0f4992e7648ea368f96d790e3333bae2d94729d164c3c49c5710db08547f992650abdb15589bb591d8e7a0f7a859ee38a85e6a9e7425e4e7b137b2ea5178c",
           "signature": "vrconsole.exe.sig",
           "signature_url": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.1.8/vrconsole.exe.sig"
         },
-        "release": "2026-02-09T23:45:51Z",
+        "release": "2026-02-09T23:51:15Z",
         "early_release": true
       }
     }
