@@ -179,7 +179,7 @@
           "signature_url": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.1.7/vrconsole.exe.sig"
         },
         "release": "2026-02-05T23:53:42Z",
-        "early_release": false
+        "early_release": true
       }
     },
     {
@@ -190,8 +190,8 @@
           "signature": "vrconsole.exe.sig",
           "signature_url": "https://github.com/Heretyc/VRConsole-releases/raw/refs/heads/main/1.1.8/vrconsole.exe.sig"
         },
-        "release": "2026-02-10T02:07:57Z",
-        "early_release": true
+        "release": "2026-02-10T04:24:47Z",
+        "early_release": false
       }
     }
   ],
@@ -214,6 +214,7 @@
     "1.1.3",
     "1.1.4",
     "1.1.5",
-    "1.1.6"
+    "1.1.6",
+    "1.1.7"
   ]
 }
